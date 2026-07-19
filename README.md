@@ -13,9 +13,9 @@
 
 👩🏽‍💻 About Me
 ---
-I'm a Business Management Analyst with an MBA and 4+ years using data to improve business processes, increase operational efficiency, and support strategic decision-making. I'm currently building out a data analytics skill set — Excel, SQL, Power BI, and Tableau. (Python Loading...)
+I'm a Business Management Analyst with 8+ years using data to improve business processes, increase operational efficiency, evaluate operational finances, and support strategic decision-making. I'm currently building out a data analytics skill set — Excel, SQL, Power BI, and Tableau. (Python Loading...)
 
-While my current title is Business Management Analyst, my work has always centered around data—analyzing business operations, validating datasets, building reports, improving workflows, and helping teams make informed decisions. I'm now expanding those skills into a dedicated Data Analyst career.
+While my current title is Business Management Analyst, my work has always centered around data—analyzing business operations, maintaining data integrity and regulatory standards, validating datasets, building reports, improving workflows, and helping teams make informed decisions. I'm now expanding those skills into a dedicated Data Analyst career.
 
 I enjoy finding answers hidden in data.
 

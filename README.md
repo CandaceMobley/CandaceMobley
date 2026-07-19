@@ -21,6 +21,13 @@ I enjoy finding answers hidden in data.
 
 Whether it's identifying process inefficiencies, cleaning messy datasets, creating dashboards, or uncovering trends that influence business decisions, I'm motivated by solving problems with data. Now I'm focused on building technical expertise in analytics while creating projects that demonstrate real-world business value.
 
+## ⭐ Featured Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| Compensation, Peformance, & Location Cost Analysis | SQL, Power BI | Analyze associate productivity, financial impact, and workspace costs. |
+
+
 🛠️ Tech Stack
 ---
 Languages & Databases 

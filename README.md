@@ -25,7 +25,7 @@ Whether it's identifying process inefficiencies, cleaning messy datasets, creati
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [Compensation, Performance, & Location Cost Analysis](Comp_Perform_Loc_Analysis) | SQL, Power BI | Analyze associate productivity, financial impact, and workspace costs. |
+| Compensation, Performance, & Location Cost Analysis | SQL, Power BI | Analyze associate productivity, financial impact, and workspace costs. |
 
 
 ### 🛠️ Tech Stack

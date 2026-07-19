@@ -28,26 +28,26 @@ Whether it's identifying process inefficiencies, cleaning messy datasets, creati
 | Compensation, Peformance, & Location Cost Analysis | SQL, Power BI | Analyze associate productivity, financial impact, and workspace costs. |
 
 
-🛠️ Tech Stack
----
-Languages & Databases 
-  * SQL (MySQL)          
+### 🛠️ Tech Stack
 
-Visualization
-  * Power BI
-  * Tableau
+**Languages & Databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Analytics
-  * Excel
-  * Google Sheets
+**Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-Productivity
-  * Microsoft 365
-  * SharePoint
-  * Google Workspace
+**Analytics**
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
-Currently Learning
-  * Python
-  * Data Modeling
+**Productivity**
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft365&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=googledrive&logoColor=white)
+
+**Currently Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6E56CF?style=flat)
 
 <p align="center"><i>Thanks for stopping by — feel free to connect!</i></p>
